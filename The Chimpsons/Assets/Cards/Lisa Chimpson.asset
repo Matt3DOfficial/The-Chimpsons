@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a24b59ae79559c14d8b56d0be324a159, type: 3}
+  m_Name: Lisa Chimpson
+  m_EditorClassIdentifier: 
+  cardName: Lisa Chimpson
+  description: 
+  brains: 10
+  style: 2
+  evil: 1
+  nimble: 4
+  stomach: 1
+  comedy: 3
