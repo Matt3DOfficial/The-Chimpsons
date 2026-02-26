@@ -13,7 +13,7 @@ public class SceneChange : MonoBehaviour {
     void changeScene() {
         Debug.Log("changing scene");
         Scene currentScene = SceneManager.GetActiveScene();
-        var newScene = "SampleScene";
+        var newScene = "SampleScene"; // scene to switch to
         SceneManager.LoadSceneAsync(newScene);
         SceneManager.UnloadSceneAsync(currentScene);
     }
