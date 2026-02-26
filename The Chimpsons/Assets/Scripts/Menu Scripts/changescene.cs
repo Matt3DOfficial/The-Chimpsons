@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-public class UIManagement : MonoBehaviour {
+public class SceneChange : MonoBehaviour {
     public Button playButton;
     
     void Start() {

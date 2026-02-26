@@ -235,10 +235,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 235134023}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5e7eeeca42bbdc64797cf09e324335d1, type: 3}
+  m_Script: {fileID: 11500000, guid: 5f61f1c01c831e94790df3946c0e923a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playButton: {fileID: 244833151}
+  playButton: {fileID: 1745672074}
 --- !u!114 &235134029
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -246,12 +246,12 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 235134023}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c76f15c9788d3c64fa1fc7405e80cace, type: 3}
+  m_Script: {fileID: 11500000, guid: 69511e1bd1e91424885df5d7a4466a86, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  quitButton: {fileID: 0}
+  playButton: {fileID: 244833151}
 --- !u!1 &244833149
 GameObject:
   m_ObjectHideFlags: 0
